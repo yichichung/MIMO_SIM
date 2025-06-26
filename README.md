@@ -27,7 +27,7 @@ basic MIMO in python
    pip install numpy matplotlib
 2. run: python main.py
 
-##structure of the project:
+## structure of the project:
 mimo_sim/
 │
 ├── main.py           # 主程式，執行整體流程

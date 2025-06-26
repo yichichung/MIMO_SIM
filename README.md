@@ -10,7 +10,7 @@ basic MIMO in python
 - 線性接收器（Zero Forcing / MMSE）
 - BER（位元錯誤率）對 SNR（訊號雜訊比）分析與繪圖
 
-本專案設計簡潔，適合作為研究或課堂練習的起點。
+本專案為基本MIMO的實作，之後可以做更多的延伸。
 
 ## 功能簡介
 
